@@ -3,7 +3,7 @@ This is my World as I see it.
 # My Projects
 Here are the list of projects that I am working on:
 <ul>
-<li><a href="https://sarah-wecan.github.io/HelloWorld/">Hello World Project</a></li>
+<li><a href="https://rgoswami14.github.io/HelloWorld/">Hello World Project</a></li>
 </ul>
 
 # My Interests
