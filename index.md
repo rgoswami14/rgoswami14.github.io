@@ -20,5 +20,7 @@ I am really excited to share my journey on GitHub.com
 </ul> 
 # Get in Touch
 <ul>
-<li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter<a></li>
+
+<li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter </a></li>
+
 </ul> 
